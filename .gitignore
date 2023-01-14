@@ -1,0 +1,3 @@
+# ignore the bot token
+/token.txt
+/token.txt.bak
